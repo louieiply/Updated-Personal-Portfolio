@@ -29,7 +29,7 @@ window.onload = function(){
                 
                 console.log("langages_str " + langages_str);
                 card_contrainer_innerHTML += `            <div class="col-md-4 col-sm-6 col-xs-12 mt-5">
-                <div class="card border-dark card-s-bg "> <a href="${element.svn_url}"><img src="/assets/images/bg.jpg" class="card-img-top" alt="..."></a>
+                <div class="card border-dark card-s-bg "> <a href="${element.svn_url}"><img src="./assets/images/bg.jpg" class="card-img-top" alt="..."></a>
                     <div class="card-body d-grid gap-3">
                     <h5 class="card-title text-center text-capitalize">${element.name}</h5>
                     <p class="card-text text-center p-0 pb-3" id="#project${count++}"></p>
