@@ -23,6 +23,10 @@ html, body{
 .title{
     border-right: 1px solid black;
 }
+.project-pic{
+    height: 50;
+    width: 100%;
+}
 .gray-color{
     border-style: solid 1px;
 
