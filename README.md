@@ -20,9 +20,14 @@ Create a Markdown file which suits your personal project needs.
 
 ## Installation
 
-No Installation for this project. 
+No Installation for this project.
+
 
 ## Usage
+
+### Deloyed
+
+https://louieiply.github.io/Updated-Personal-Portfolio/
 
 ![screenshot1](Screenshots/screenshot1.png)
 
